@@ -24,3 +24,4 @@ Following the setup, we configured the two nodes to both be pre-funded (since th
 
 ### Mining Environment Setup
 
+With our next step, we began mining in node1 and in node2 on the Ethereum testnet by using geth. 
