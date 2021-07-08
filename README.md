@@ -29,3 +29,8 @@ With our next step, we began mining in node1 and in node2 on the Ethereum testne
 ![Node1_Mining](Screenshots/Node1_Mining.png)
 
 ![Node2_Mining](Screenshots/Node2_Mining.png)
+
+---
+
+### MyCrypto Testing
+Once we officially began mining on our blockchain, we created our own custom Network to confirm that it was running successfully.
