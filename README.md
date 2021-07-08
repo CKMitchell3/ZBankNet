@@ -33,4 +33,8 @@ With our next step, we began mining in node1 and in node2 on the Ethereum testne
 ---
 
 ### MyCrypto Testing
-Once we officially began mining on our blockchain, we created our own custom Network to confirm that it was running successfully.
+Once we officially began mining on our blockchain, we created our own custom Network to confirm that it was running successfully. In order to set up our network, it was mandatory that we had our Chain ID saved (can be found at the top of this page) and knew which port to utilize (RPC port 8545). Once the network was setup, we sent ETH from our first node's wallet to the second to make sure they ran successfully. Below you will see that our transaction was successful.
+
+![TX_1](Screenshots/TX_1.png)
+
+![TX_2](Screenshots/TX_2.png)
